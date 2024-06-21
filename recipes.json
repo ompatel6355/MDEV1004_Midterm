@@ -1,0 +1,311 @@
+[{
+        "title": "Spaghetti Carbonara",
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 large eggs",
+            "50g Pecorino cheese",
+            "50g Parmesan",
+            "2 plump garlic cloves, peeled and left whole",
+            "50g unsalted butter",
+            "Sea salt and freshly ground black pepper"
+        ],
+        "instructions": [
+            "Put a large saucepan of water on to boil.",
+            "Finely chop the pancetta, having first removed any rind.",
+            "Beat the eggs in a medium bowl, season with a little freshly grated black pepper and set everything aside.",
+            "Add 1 tsp salt to the boiling water, add the spaghetti and when the water comes back to the boil, cook at a constant simmer.",
+            "Squash the garlic with the blade of a knife, just to bruise it.",
+            "While the spaghetti is cooking, heat a large, deep frying pan over medium heat. Add the pancetta and garlic.",
+            "Keep the heat hot but not so much that the butter burns. When the garlic has turned golden brown, discard it.",
+            "Keep the heat under the pancetta on medium. When the spaghetti is ready, lift it from the water with a pasta fork or tongs.",
+            "Mix most of the cheese in with the eggs, keeping a small handful back for sprinkling over later.",
+            "Add the spaghetti to the pancetta and toss for a couple of minutes to coat the spaghetti.",
+            "Take the pan of spaghetti and pancetta off the heat. Quickly pour in the eggs and cheese.",
+            "Add extra pasta cooking water to keep it saucy (several tablespoons should do it). You don’t want it wet, just moist.",
+            "Serve immediately with a little sprinkling of the remaining cheese and a grating of black pepper."
+        ],
+        "origin": "Italy",
+        "preparationTime": "20 minutes",
+        "servingSize": "2 servings",
+        "difficulty": "Easy",
+        "calorieCount": "600 calories per serving",
+        "microNutrient": "Protein",
+        "sourceURL": "https://example.com/spaghetti-carbonara",
+        "imageURL": "https://example.com/images/spaghetti-carbonara.jpg"
+    },
+    {
+        "title": "Chicken Tikka Masala",
+        "ingredients": [
+            "1 kg boneless chicken thighs",
+            "1 cup yogurt",
+            "1 tbsp ginger garlic paste",
+            "1 tsp turmeric",
+            "1 tbsp garam masala",
+            "1 tbsp ground cumin",
+            "1 tbsp ground coriander",
+            "2 tbsp oil",
+            "1 large onion, finely chopped",
+            "2 large tomatoes, pureed",
+            "1 cup heavy cream",
+            "Salt to taste",
+            "Fresh cilantro for garnish"
+        ],
+        "instructions": [
+            "Marinate the chicken with yogurt, ginger garlic paste, turmeric, garam masala, and ground cumin for at least 1 hour.",
+            "Heat oil in a large pan over medium heat. Add chopped onions and cook until golden brown.",
+            "Add the marinated chicken and cook until the chicken is browned.",
+            "Add tomato puree and cook until the oil starts to separate from the tomato mixture.",
+            "Reduce heat and add heavy cream. Stir well and let it simmer for 10-15 minutes.",
+            "Garnish with fresh cilantro before serving."
+        ],
+        "origin": "India",
+        "preparationTime": "1 hour 30 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Medium",
+        "calorieCount": "450 calories per serving",
+        "microNutrient": "Calcium",
+        "sourceURL": "https://example.com/chicken-tikka-masala",
+        "imageURL": "https://example.com/images/chicken-tikka-masala.jpg"
+    },
+    {
+        "title": "Greek Salad",
+        "ingredients": [
+            "1 cucumber, sliced",
+            "2 tomatoes, chopped",
+            "1 red onion, thinly sliced",
+            "1 green bell pepper, sliced",
+            "200g feta cheese, crumbled",
+            "1/2 cup Kalamata olives",
+            "1/4 cup olive oil",
+            "2 tbsp red wine vinegar",
+            "1 tsp dried oregano",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "In a large bowl, combine the cucumber, tomatoes, red onion, and green bell pepper.",
+            "Add the crumbled feta cheese and Kalamata olives.",
+            "In a small bowl, whisk together the olive oil, red wine vinegar, dried oregano, salt, and pepper.",
+            "Pour the dressing over the salad and toss to combine.",
+            "Serve immediately or chill in the refrigerator for 30 minutes."
+        ],
+        "origin": "Greece",
+        "preparationTime": "15 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "200 calories per serving",
+        "microNutrient": "Fiber",
+        "sourceURL": "https://example.com/greek-salad",
+        "imageURL": "https://example.com/images/greek-salad.jpg"
+    },
+    {
+        "title": "Beef Stroganoff",
+        "ingredients": [
+            "500g beef sirloin, thinly sliced",
+            "2 tbsp butter",
+            "1 large onion, chopped",
+            "2 cloves garlic, minced",
+            "200g mushrooms, sliced",
+            "1 cup beef broth",
+            "1 cup sour cream",
+            "2 tbsp flour",
+            "Salt and pepper to taste",
+            "2 tbsp chopped parsley"
+        ],
+        "instructions": [
+            "In a large skillet, melt butter over medium-high heat.",
+            "Add the beef slices and cook until browned. Remove and set aside.",
+            "In the same skillet, add the chopped onion and cook until translucent.",
+            "Add the minced garlic and sliced mushrooms, cooking until the mushrooms are tender.",
+            "Sprinkle flour over the mixture and stir to combine.",
+            "Gradually add the beef broth, stirring constantly until the sauce thickens.",
+            "Return the beef to the skillet and simmer for a few minutes.",
+            "Stir in the sour cream and season with salt and pepper.",
+            "Garnish with chopped parsley before serving."
+        ],
+        "origin": "Russia",
+        "preparationTime": "40 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Medium",
+        "calorieCount": "500 calories per serving",
+        "microNutrient": "Iron",
+        "sourceURL": "https://example.com/beef-stroganoff",
+        "imageURL": "https://example.com/images/beef-stroganoff.jpg"
+    },
+    {
+        "title": "Vegetable Stir Fry",
+        "ingredients": [
+            "1 cup broccoli florets",
+            "1 cup sliced bell peppers",
+            "1 cup snow peas",
+            "1 cup sliced carrots",
+            "2 cloves garlic, minced",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "1 tbsp vegetable oil",
+            "1 tbsp cornstarch",
+            "1 cup vegetable broth",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "In a small bowl, mix vegetable broth, soy sauce, sesame oil, and cornstarch. Set aside.",
+            "Heat vegetable oil in a large skillet over medium-high heat.",
+            "Add garlic and cook until fragrant.",
+            "Add broccoli, bell peppers, snow peas, and carrots. Stir-fry for 5-7 minutes.",
+            "Pour the sauce mixture over the vegetables and stir well.",
+            "Cook for another 2-3 minutes until the sauce thickens.",
+            "Season with salt and pepper to taste.",
+            "Serve hot over rice or noodles."
+        ],
+        "origin": "China",
+        "preparationTime": "20 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "150 calories per serving",
+        "microNutrient": "Vitamin C",
+        "sourceURL": "https://example.com/vegetable-stir-fry",
+        "imageURL": "https://example.com/images/vegetable-stir-fry.jpg"
+    },
+    {
+        "title": "Lemon Garlic Salmon",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons, sliced",
+            "4 cloves garlic, minced",
+            "1/4 cup olive oil",
+            "2 tbsp fresh parsley, chopped",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "Place salmon fillets on a baking sheet lined with parchment paper.",
+            "In a small bowl, mix olive oil, garlic, and chopped parsley.",
+            "Drizzle the mixture over the salmon fillets.",
+            "Top each fillet with lemon slices.",
+            "Season with salt and pepper.",
+            "Bake for 15-20 minutes, or until salmon is cooked through.",
+            "Serve with your choice of sides."
+        ],
+        "origin": "United States",
+        "preparationTime": "30 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "300 calories per serving",
+        "microNutrient": "Omega-3 Fatty Acids",
+        "sourceURL": "https://example.com/lemon-garlic-salmon",
+        "imageURL": "https://example.com/images/lemon-garlic-salmon.jpg"
+    },
+    {
+        "title": "Caprese Salad",
+        "ingredients": [
+            "4 large tomatoes, sliced",
+            "250g fresh mozzarella, sliced",
+            "1/4 cup fresh basil leaves",
+            "2 tbsp olive oil",
+            "1 tbsp balsamic vinegar",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Arrange tomato and mozzarella slices on a platter, alternating them.",
+            "Tuck basil leaves between the slices.",
+            "Drizzle olive oil and balsamic vinegar over the salad.",
+            "Season with salt and pepper.",
+            "Serve immediately."
+        ],
+        "origin": "Italy",
+        "preparationTime": "10 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "250 calories per serving",
+        "microNutrient": "Calcium",
+        "sourceURL": "https://example.com/caprese-salad",
+        "imageURL": "https://example.com/images/caprese-salad.jpg"
+    },
+    {
+        "title": "Pancakes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tbsp sugar",
+            "2 tsp baking powder",
+            "1/2 tsp salt",
+            "1 cup milk",
+            "2 tbsp melted butter",
+            "1 large egg",
+            "1 tsp vanilla extract"
+        ],
+        "instructions": [
+            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "In another bowl, mix milk, melted butter, egg, and vanilla extract.",
+            "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+            "Heat a non-stick skillet over medium heat and grease with a little butter.",
+            "Pour 1/4 cup of batter for each pancake onto the skillet.",
+            "Cook until bubbles form on the surface and edges look set, then flip and cook until golden brown.",
+            "Serve warm with your favorite toppings."
+        ],
+        "origin": "United States",
+        "preparationTime": "20 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "200 calories per serving",
+        "microNutrient": "Carbohydrates",
+        "sourceURL": "https://example.com/pancakes",
+        "imageURL": "https://example.com/images/pancakes.jpg"
+    },
+    {
+        "title": "Caesar Salad",
+        "ingredients": [
+            "1 head romaine lettuce, chopped",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1/4 cup Caesar dressing",
+            "1 lemon, cut into wedges"
+        ],
+        "instructions": [
+            "In a large bowl, combine the chopped romaine lettuce, croutons, and grated Parmesan cheese.",
+            "Drizzle with Caesar dressing and toss to coat.",
+            "Serve with lemon wedges on the side."
+        ],
+        "origin": "Mexico",
+        "preparationTime": "15 minutes",
+        "servingSize": "4 servings",
+        "difficulty": "Easy",
+        "calorieCount": "180 calories per serving",
+        "microNutrient": "Vitamin A",
+        "sourceURL": "https://example.com/caesar-salad",
+        "imageURL": "https://example.com/images/caesar-salad.jpg"
+    },
+    {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 tsp vanilla extract",
+            "3 cups all-purpose flour",
+            "1 tsp baking soda",
+            "1/2 tsp baking powder",
+            "1/2 tsp salt",
+            "2 cups semisweet chocolate chips"
+        ],
+        "instructions": [
+            "Preheat oven to 350°F (175°C).",
+            "In a large bowl, cream together the butter, granulated sugar, and brown sugar until smooth.",
+            "Beat in the eggs one at a time, then stir in the vanilla.",
+            "In a separate bowl, combine the flour, baking soda, baking powder, and salt.",
+            "Gradually add the dry ingredients to the wet ingredients, mixing well.",
+            "Stir in the chocolate chips.",
+            "Drop by rounded spoonfuls onto ungreased cookie sheets.",
+            "Bake for 10-12 minutes, or until edges are golden brown.",
+            "Allow cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+        ],
+        "origin": "United States",
+        "preparationTime": "30 minutes",
+        "servingSize": "24 cookies",
+        "difficulty": "Easy",
+        "calorieCount": "150 calories per cookie",
+        "microNutrient": "Iron",
+        "sourceURL": "https://example.com/chocolate-chip-cookies",
+        "imageURL": "https://example.com/images/chocolate-chip-cookies.jpg"
+    }
+]

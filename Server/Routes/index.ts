@@ -1,23 +1,23 @@
 import express from 'express';
 const router = express.Router();
 
-import { DisplayMovieList, DisplayMovieById, AddMovie, UpdateMovie, DeleteMovie } from '../Controllers/movie';
+import { DisplayRecipeList, DisplayRecipeById, AddRecipe, UpdateRecipe, DeleteRecipe } from '../Controllers/recipe';
 
 /* List of Routes (endpoints) */
 
-/* GET Movie List. */
-router.get('/', (req, res, next) => {  DisplayMovieList(req, res, next); });
+/* GET Recipe List. */
+router.get('/', (req, res, next) => {  DisplayRecipeList(req, res, next); });
 
-/* GET Movie by ID. */
-router.get('/:id', (req, res, next) => {  DisplayMovieById(req, res, next); });
+/* GET Recipe by ID. */
+router.get('/:id', (req, res, next) => {  DisplayRecipeById(req, res, next); });
 
-/* Add Movie */
-router.post('/add', (req, res, next) => {  AddMovie(req, res, next); });
+/* Add Recipe */
+router.post('/add', (req, res, next) => {  AddRecipe(req, res, next); });
 
-/* Update Movie */
-router.put('/update/:id', (req, res, next) => {  UpdateMovie(req, res, next); });
+/* Update Recipe */
+router.put('/update/:id', (req, res, next) => {  UpdateRecipe(req, res, next); });
 
-/* Delete Movie */
-router.delete('/delete/:id', (req, res, next) => {  DeleteMovie(req, res, next); });
+/* Delete Recipe */
+router.delete('/delete/:id', (req, res, next) => {  DeleteRecipe(req, res, next); });
 
 export default router;
